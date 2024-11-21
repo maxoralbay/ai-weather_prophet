@@ -1,0 +1,4 @@
+api_key.json
+*.pkl
+.idea/
+.venv/
